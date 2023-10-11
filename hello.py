@@ -1,2 +1,3 @@
-#This is my first program in python
+#First program of python
+
 print("Hello World")
