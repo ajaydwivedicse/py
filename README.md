@@ -1,2 +1,2 @@
 # pycode
-This is a public repo for all my codebase for python.
+This repo contains all my python code.
